@@ -3,7 +3,7 @@ export const projects = [
   {
     title: 'Teem.JS',
     description: "Projeto desenvolvido entre 4 amigos",
-      image: '/images/teemjs.png',
+      image: '/images/Teem.png',
       tags: ['JS' , 'HTML'],
     source: '#',
     visit: '#',
